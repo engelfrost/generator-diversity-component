@@ -22,5 +22,7 @@
     "Jed": false,
     "tws": false,
     "require": false
+    "Big": true, 
+    "tv4": true
   }
 }
